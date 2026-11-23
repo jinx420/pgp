@@ -1,0 +1,13 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+https://furrypaws.xyz
+http://yiffmeow73wdbyfbi3cp5pwad4k2rn73ekyp2ttfgxgkag6untyk3qqd.onion
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQSuVetz8YjOoPeqcHBsLD2VD6FBnAUCawSucQAKCRBsLD2VD6FB
+nK+QAP9RcLgW+EzBUbGHqrUacOZgtThhigW+Zsy2zyUk8TuaOQD+JawatljQeGt/
+upbF+MBaq1cm4FTOhLn2TS54unZP7As=
+=Zjng
+-----END PGP SIGNATURE-----
+
